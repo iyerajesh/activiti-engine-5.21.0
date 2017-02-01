@@ -1,0 +1,16 @@
+org\activiti\domain\Event.class
+org\activiti\ClaimsWorkflowController$StartProcessRepresentation.class
+org\activiti\ClaimsWorkflowService.class
+org\activiti\EventSender.class
+org\activiti\domain\Claim.class
+org\activiti\ClaimsWorkflowController.class
+org\activiti\domain\Manager.class
+org\activiti\ActivitiEngine.class
+org\activiti\WorkAssignmentService.class
+org\activiti\SecurityConfig.class
+org\activiti\ActivitiEngine$1.class
+org\activiti\CORSFilter.class
+org\activiti\RabbitMQConfig.class
+org\activiti\UnassignedClaimsService.class
+org\activiti\ClaimsWorkflowController$TaskRepresentation.class
+org\activiti\domain\TaskAssignment.class
